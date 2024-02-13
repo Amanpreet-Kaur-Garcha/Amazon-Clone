@@ -1,3 +1,3 @@
 # Anu-Projects
-My first Git Hub file
+My first Git Hub Repository.
 Author - Amanpreet Kaur Garcha
